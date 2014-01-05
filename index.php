@@ -30,13 +30,13 @@
 			</p>
 			 <p><h3> Gestion des catégories</h3> </p>
         		<li><A  href="AfficheToutesCategories.php">visualiser toutes les catégories </A></li>
-       			<li><A  href="SaisirNouvelleCategorieV2.php">créer une nouvelle catégorie </A></li>
+       			<li><A  href="SaisirNouvelleCategorie.php">créer une nouvelle catégorie </A></li>
  			<BR>	
  			<p><h3> Gestion des produits </h3></p>
 				<li><A  href="AfficheTousProduits.php">visualiser tous les produits - en image</A></li>
-				<li><A  href="ChoisirUneCatV2.php">visualiser les produits d'une catégorie </A></li>
+				<li><A  href="ChoisirUneCategorie.php">visualiser les produits d'une catégorie </A></li>
          		<li><A  href="ChoisirUnProduitSurId.php">visualiser un produit à partir de son N° </A></li>
-         		<li><A  href="SaisirNouveauProduitV2.php">créer un nouveau produit </A></li><BR>
+         		<li><A  href="SaisirNouveauProduit.php">créer un nouveau produit </A></li><BR>
  			<BR>
 			<p><h3> Gestion des clients</h3> </p>
         		<li><A  href="afficheTousClients.php">visualiser tous les clients </A></li>
